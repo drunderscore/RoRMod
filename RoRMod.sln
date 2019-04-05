@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoRMod", "RoRMod\RoRMod.csproj", "{81B25664-DF0F-402A-A618-F1CF18BBA67C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B25664-DF0F-402A-A618-F1CF18BBA67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B25664-DF0F-402A-A618-F1CF18BBA67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B25664-DF0F-402A-A618-F1CF18BBA67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B25664-DF0F-402A-A618-F1CF18BBA67C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4F5F158-4724-4E3D-A856-9D2142642C39}
+	EndGlobalSection
+EndGlobal
