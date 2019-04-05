@@ -83,6 +83,9 @@
     <Compile Include="OldCommands.cs" />
     <Compile Include="UserModOptions.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assembly-CSharp.dll" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>copy "$(TargetPath)" "E:\Steam\steamapps\common\Risk of Rain 2\Risk of Rain 2_Data\Managed"</PostBuildEvent>
